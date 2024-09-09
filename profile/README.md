@@ -1,7 +1,7 @@
 ## About
 
 This organization is about developing the educational 3d graphics framework _EduGraf_.
-Refer to the documentation [documentation](https://edugraf.info/) to learn more.
+Refer to the [documentation](https://edugraf.info/) to learn more.
 
 <!--
 
